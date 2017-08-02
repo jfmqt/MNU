@@ -1,2 +1,2 @@
 # MNU
-Maquette Numerique Universelle dédié aux déploiements de réseaux de Télécomunication.
+Maquette Numerique Universelle dédiée aux déploiements de réseaux de Télécomunication.
